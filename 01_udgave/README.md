@@ -1,4 +1,6 @@
-# Introduktion til R, 1. udgave <img src="https://erikgahner.dk/img/2022/introduktiontilR.jpg" align="right" width="150">
+# Introduktion til R, 1. udgave <img src="https://erikgahner.dk/img/2022/introduktiontilR.jpg" align="right" width="300">
+
+En introduktion til bogen kan findes i [dette indlæg](https://erikgahner.dk/2022/introduktion-til-r-2/).
 
 # Køb bogen
 
